@@ -1,2 +1,2 @@
 # test
-test repo command
+test repo command for bit
